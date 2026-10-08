@@ -1,4 +1,9 @@
 # open-LIFU
+
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 This repository contains the software for OpenWater's Transcranial Focused Ultrasound Platform. open-LIFU is an ultrasound platform designed to help researchers transmit focused ultrasound beams into subject’s brains, so that those researchers can learn more about how different types of ultrasound beams interact with the neurons in the brain. Unlike other focused ultrasound systems which are aimed only by their placement on the head, open-LIFU uses an array to precisely steer the ultrasound focus to the target location, while its wearable small size allows transmission through the forehead into a precise spot location in the brain even while the patient is moving.
 
 For additional details on open-LIFU, refer to the [wiki](https://wiki.openwater.health/index.php/Openwater_Wiki#Neuromodulation).
@@ -64,6 +69,3 @@ When a database is created, data are stored in a hierarchy of folders that looks
 
 ## License
 open-tFUS is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE) for details.
-
-## Investigational Use Only
-CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. open-LIFU has *not* been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
